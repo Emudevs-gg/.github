@@ -31,5 +31,5 @@ Sharing is caring, while some of our IP will not be released to the public, the 
 _Disclaimer: All projects and releases are for educational and research purposes only. Emudevs takes no credit for copyrighted content belonging to any other entity._
 
 <div style="text-align: center">
-<img src="https://github.com/Emudevs-gg/.github/blob/main/profile/Logomark_green.png)https://github.com/Emudevs-gg/.github/blob/main/profile/Logomark_green.png">
+<img src="https://github.com/Emudevs-gg/.github/blob/main/profile/Logomark_green.png">
 </div>
