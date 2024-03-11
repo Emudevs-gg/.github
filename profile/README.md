@@ -1,13 +1,13 @@
 <div style="text-align: center">
-<img src="./Logo_green.png">
+<img src="https://github.com/Emudevs-gg/.github/blob/main/profile/Logo_green.png">
 </div>
 <br />
 
 # Welcome to Emudevs' GitHub 👋
 
-We're at the forefront of emualtion research and development. Here you can find our open-source projects, tutorials, documentation, and more!
+We're at the forefront of emulation research and development. Here you can find our open-source projects, tutorials, documentation, and more!
 
-Sharing is caring, while some of our IP will not be released to the public, the majority of content created by the staff and researchers in Emudevs will open to all. 💕
+Sharing is caring, while some of our IP will not be released to the public, the majority of content created by the staff and researchers in Emudevs will be open to all. 💕
 
 ## Current Major Projects
 
@@ -31,5 +31,5 @@ Sharing is caring, while some of our IP will not be released to the public, the 
 _Disclaimer: All projects and releases are for educational and research purposes only. Emudevs takes no credit for copyrighted content belonging to any other entity._
 
 <div style="text-align: center">
-<img src="./Logomark_green.png">
+<img src="[./Logomark_green.png](https://github.com/Emudevs-gg/.github/blob/main/profile/Logomark_green.png)https://github.com/Emudevs-gg/.github/blob/main/profile/Logomark_green.png">
 </div>
