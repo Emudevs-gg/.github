@@ -11,9 +11,9 @@ Sharing is caring, while some of our IP will not be released to the public, the 
 
 ## Current Major Projects
 
-### L2 Pack
+### L2 Pack (EmuDevs 408B)
 
-- More information coming soon.
+- Available at [Chronicle Coders](https://discord.gg/5zHzFGyGns)
 
 ### World of Warcraft MoP
 
