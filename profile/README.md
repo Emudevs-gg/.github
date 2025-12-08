@@ -1,5 +1,6 @@
 <div style="text-align: center">
-<img src="https://github.com/Emudevs-gg/.github/blob/main/profile/Logo_green.png">
+<img src="https://github.com/Emudevs-gg/.github/blob/main/profile/wordmark.png">
+
 </div>
 <br />
 
